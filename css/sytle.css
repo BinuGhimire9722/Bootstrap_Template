@@ -1,0 +1,79 @@
+.title{
+	margin-top: 15px;
+}
+.image{
+	width: 100%;
+}
+
+.text-area{
+    width: 90%;
+    margin:20px;
+    height: 70px;
+
+}
+.sub-btn{
+      width: 20%;
+      background-color: skyblue;
+      border:none;
+      border-radius: 5px;
+      padding:5px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      color: white;
+
+} 
+
+.search-card{
+	margin-top: 10px;
+}
+.commenter{
+  margin-top: 15px;
+}
+
+.categories{
+	margin-top: 30px;
+}
+
+.position{
+   text-align: left;
+
+}
+
+
+.widget{
+	margin-top: 30px;
+}
+
+.footer{
+	margin-top: 15px;
+	height: 60px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #343A40;
+	color: white;
+	font-size:15px;
+	text-align: center;
+}
+
+
+
+/** page 2 styles **/
+
+
+
+.btn1{
+	height: 35px;
+	width: 15%;
+	border:none;
+	border-radius: 5px;
+
+}
+
+.bootstrap{
+	margin-top: 25px;
+}
+.photo{
+	height: 200px;
+    width: 300px;
+}
+
